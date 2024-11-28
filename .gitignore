@@ -1,0 +1,10 @@
+.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+story_data.db
+.venv
