@@ -14,3 +14,5 @@ Database for storing saved stories.
 
 Database: 
 Story data. 
+
+Forked from group version: https://github.com/fenyuchenabc/CS467-GPT-API-Challenge
